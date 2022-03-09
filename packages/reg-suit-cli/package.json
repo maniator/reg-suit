@@ -25,7 +25,7 @@
   "license": "MIT",
   "dependencies": {
     "cp-file": "9.1.0",
-    "ignore": "5.1.8",
+    "ignore": "5.2.0",
     "inquirer": "8.2.1",
     "reg-suit-core": "^0.11.1",
     "reg-suit-util": "^0.11.0",
